@@ -1,3 +1,4 @@
 # Cwiczenia
 Ćwiczenia zespołowe w Pythonie
-bajo jajoz
+bajo jajo
+bajo jajo 2
