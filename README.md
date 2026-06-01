@@ -1,3 +1,3 @@
 # Cwiczenia
 Ćwiczenia zespołowe w Pythonie
-Zmiana 1
+bajo jajoz
